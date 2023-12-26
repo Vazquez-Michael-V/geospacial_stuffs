@@ -1,0 +1,516 @@
+,store_id,store_street,store_coord_link,store_city,store_state,store_zip,store_lat,store_long
+0,10591,2501 Memorial Pkwy SW,"https://www.google.com/maps/dir/?api=1&destination=34.71215649,-86.58991106",Huntsville,AL,35801,34.71215649,-86.58991106
+1,10209,3100 Cahaba Village Plaza,"https://www.google.com/maps/dir/?api=1&destination=33.460088,-86.752324",Birmingham,AL,35243,33.460088,-86.752324
+2,10581,320 S Cambridge Ln,"https://www.google.com/maps/dir/?api=1&destination=35.191661,-111.641167",Flagstaff,AZ,86001,35.191661,-111.641167
+3,10583,1420 W State Rte 89A,"https://www.google.com/maps/dir/?api=1&destination=34.863536,-111.784974",Sedona,AZ,86336,34.863536,-111.784974
+4,10246,7111 E Mayo Blvd,"https://www.google.com/maps/dir/?api=1&destination=33.653791,-111.927193",Phoenix,AZ,85054,33.653791,-111.927193
+5,10172,10810 N Tatum Blvd,"https://www.google.com/maps/dir/?api=1&destination=33.585046,-111.979056",Phoenix,AZ,85028,33.585046,-111.979056
+6,10475,5555 E River Rd,"https://www.google.com/maps/dir/?api=1&destination=32.27492859,-110.8743782",Tucson,AZ,85750,32.27492859,-110.8743782
+7,10347,"750 S Ash Ave, Ste 101","https://www.google.com/maps/dir/?api=1&destination=33.4224,-111.943",Tempe,AZ,85281,33.4224,-111.943
+8,10469,7133 N Oracle Rd,"https://www.google.com/maps/dir/?api=1&destination=32.336556,-110.978349",Tucson,AZ,85704,32.336556,-110.978349
+9,10476,4701 N 20th St,"https://www.google.com/maps/dir/?api=1&destination=33.506471,-112.037908",Phoenix,AZ,85016,33.506471,-112.037908
+10,10272,2955 W Ray Rd,"https://www.google.com/maps/dir/?api=1&destination=33.31855144,-111.892871",Chandler,AZ,85224,33.31855144,-111.892871
+11,10439,3360 E Speedway Blvd,"https://www.google.com/maps/dir/?api=1&destination=32.235584,-110.921476",Tucson,AZ,85716,32.235584,-110.921476
+12,10596,3425 N College Ave,"https://www.google.com/maps/dir/?api=1&destination=36.1136,-94.1462",Fayetteville,AR,72703,36.1136,-94.1462
+13,10551,501 S Bowman Rd,"https://www.google.com/maps/dir/?api=1&destination=34.750282,-92.405594",Little Rock,AR,72211,34.750282,-92.405594
+14,10359,44-459 Town Center Way,"https://www.google.com/maps/dir/?api=1&destination=33.725591,-116.399894",Palm Desert,CA,92260,33.725591,-116.399894
+15,10676,2153 W Baseline Rd,"https://www.google.com/maps/dir/?api=1&destination=34.122944,-117.692489",Upland,CA,91784,34.122944,-117.692489
+16,10434,"2600 Via De La Valle, Ste 100","https://www.google.com/maps/dir/?api=1&destination=32.98120192,-117.2519567",Del Mar,CA,92014,32.98120192,-117.2519567
+17,10594,3301 E Imperial Hwy,"https://www.google.com/maps/dir/?api=1&destination=33.91008,-117.851382",Brea,CA,92823,33.91008,-117.851382
+18,10066,8825 Villa La Jolla Dr,"https://www.google.com/maps/dir/?api=1&destination=32.868764,-117.230611",La Jolla,CA,92037,32.868764,-117.230611
+19,10614,8525 Irvine Center Dr,"https://www.google.com/maps/dir/?api=1&destination=33.64616259,-117.744356",Irvine,CA,92618,33.64616259,-117.744356
+20,10703,3600 Lake Tahoe Blvd.,"https://www.google.com/maps/dir/?api=1&destination=38.9472,-119.959176",South Lake Tahoe,CA,96150,38.9472,-119.959176
+21,10072,711 University Ave,"https://www.google.com/maps/dir/?api=1&destination=32.748193,-117.158201",San Diego,CA,92103,32.748193,-117.158201
+22,10108,3751 E Foothill Blvd,"https://www.google.com/maps/dir/?api=1&destination=34.15110506,-118.0721852",Pasadena,CA,91107,34.15110506,-118.0721852
+23,10437,23932 Aliso Creek Rd,"https://www.google.com/maps/dir/?api=1&destination=33.55445742,-117.712557",Laguna Niguel,CA,92677,33.55445742,-117.712557
+24,10231,2847 Park Ave,"https://www.google.com/maps/dir/?api=1&destination=33.6963,-117.8256",Tustin,CA,92782,33.6963,-117.8256
+25,10406,283 Broadway St,"https://www.google.com/maps/dir/?api=1&destination=33.543856,-117.783815",Laguna Beach,CA,92651,33.543856,-117.783815
+26,10237,465 S Arroyo Pkwy,"https://www.google.com/maps/dir/?api=1&destination=34.1381,-118.14776",Pasadena,CA,91105,34.1381,-118.14776
+27,10468,415 Newport Center Dr,"https://www.google.com/maps/dir/?api=1&destination=33.61662616,-117.8738096",Newport Beach,CA,92660,33.61662616,-117.8738096
+28,10768,10081 Adams Ave,"https://www.google.com/maps/dir/?api=1&destination=33.673401,-117.952253",Huntington Beach,CA,92646,33.673401,-117.952253
+29,10399,"7881 Edinger Ave , Ste 150","https://www.google.com/maps/dir/?api=1&destination=33.73120892,-117.9905145",Huntington Beach,CA,92647,33.73120892,-117.9905145
+30,10179,331 N Glendale Ave,"https://www.google.com/maps/dir/?api=1&destination=34.150993,-118.245876",Glendale,CA,91206,34.150993,-118.245876
+31,10658,2520 Glendale Blvd,"https://www.google.com/maps/dir/?api=1&destination=34.1028973,-118.2585693",Los Angeles,CA,90039,34.1028973,-118.2585693
+32,10546,788 S Grand Ave,"https://www.google.com/maps/dir/?api=1&destination=34.045919,-118.257533",Los Angeles,CA,90017,34.045919,-118.257533
+33,10688,"3881 Lakewood Blvd, Ste A","https://www.google.com/maps/dir/?api=1&destination=33.829837,-118.144204",Long Beach,CA,90808,33.829837,-118.144204
+34,10545,3401 W Olive Ave,"https://www.google.com/maps/dir/?api=1&destination=34.154293,-118.337861",Burbank,CA,91505,34.154293,-118.337861
+35,10701,"6400 E Pacific Coast Hwy, Ste A-100","https://www.google.com/maps/dir/?api=1&destination=33.757522,-118.111403",Long Beach,CA,90803,33.757522,-118.111403
+36,10109,7871 Santa Monica Blvd,"https://www.google.com/maps/dir/?api=1&destination=34.091753,-118.360767",West Hollywood,CA,90046,34.091753,-118.360767
+37,10177,6350 W 3rd St,"https://www.google.com/maps/dir/?api=1&destination=34.070373,-118.36057",Los Angeles,CA,90036,34.070373,-118.36057
+38,10178,24130 Valencia Blvd,"https://www.google.com/maps/dir/?api=1&destination=34.41244,-118.555862",Santa Clarita,CA,91355,34.41244,-118.555862
+39,10784,12905 Riverside Dr,"https://www.google.com/maps/dir/?api=1&destination=34.157986,-118.414101",Sherman Oaks,CA,91423,34.157986,-118.414101
+40,10764,3377 S. La Cienega Blvd,"https://www.google.com/maps/dir/?api=1&destination=34.027058,-118.372746",Los Angeles,CA,90016,34.027058,-118.372746
+41,10671,14311 Ventura Blvd,"https://www.google.com/maps/dir/?api=1&destination=34.15067,-118.44504",Sherman Oaks,CA,91423,34.15067,-118.44504
+42,10022,239 N Crescent Dr,"https://www.google.com/maps/dir/?api=1&destination=34.06946593,-118.3983616",Beverly Hills,CA,90210,34.06946593,-118.3983616
+43,10038,4520 N Sepulveda Blvd,"https://www.google.com/maps/dir/?api=1&destination=34.151881,-118.466601",Sherman Oaks,CA,91403,34.151881,-118.466601
+44,10176,1050 S Gayley Ave,"https://www.google.com/maps/dir/?api=1&destination=34.061192,-118.446981",Los Angeles,CA,90024,34.061192,-118.446981
+45,10695,20209 W Rinaldi St,"https://www.google.com/maps/dir/?api=1&destination=34.275797,-118.574702",Porter Ranch,CA,91326,34.275797,-118.574702
+46,10045,11666 National Blvd,"https://www.google.com/maps/dir/?api=1&destination=34.022596,-118.438023",Los Angeles,CA,90064,34.022596,-118.438023
+47,10536,12746 W Jefferson Blvd,"https://www.google.com/maps/dir/?api=1&destination=33.97693119,-118.4182426",Playa Vista,CA,90094,33.97693119,-118.4182426
+48,10074,11737 San Vicente Blvd,"https://www.google.com/maps/dir/?api=1&destination=34.053675,-118.467401",Los Angeles,CA,90049,34.053675,-118.467401
+49,10225,760 S Sepulveda Blvd,"https://www.google.com/maps/dir/?api=1&destination=33.90631911,-118.3928009",El Segundo,CA,90245,33.90631911,-118.3928009
+50,10653,2121 Cloverfield Blvd,"https://www.google.com/maps/dir/?api=1&destination=34.02194,-118.465394",Santa Monica,CA,90404,34.02194,-118.465394
+51,10105,2655 Pacific Coast Hwy,"https://www.google.com/maps/dir/?api=1&destination=33.792447,-118.330984",Torrance,CA,90505,33.792447,-118.330984
+52,10122,650 W Shaw Ave,"https://www.google.com/maps/dir/?api=1&destination=36.809279,-119.805345",Fresno,CA,93704,36.809279,-119.805345
+53,10173,2201 Wilshire Blvd,"https://www.google.com/maps/dir/?api=1&destination=34.033353,-118.481209",Santa Monica,CA,90403,34.033353,-118.481209
+54,10333,225 Lincoln Blvd,"https://www.google.com/maps/dir/?api=1&destination=34.001301,-118.46977",Venice,CA,90291,34.001301,-118.46977
+55,10398,1425 Montana Ave,"https://www.google.com/maps/dir/?api=1&destination=34.0328,-118.4947",Santa Monica,CA,90403,34.0328,-118.4947
+56,10024,405 N Pacific Coast Hwy,"https://www.google.com/maps/dir/?api=1&destination=33.847366,-118.389355",Redondo Beach,CA,90277,33.847366,-118.389355
+57,10099,21347 Ventura Blvd,"https://www.google.com/maps/dir/?api=1&destination=34.168227,-118.596933",Woodland Hills,CA,91364,34.168227,-118.596933
+58,10441,23401 Civic Center Way,"https://www.google.com/maps/dir/?api=1&destination=34.038516,-118.686429",Malibu,CA,90265,34.038516,-118.686429
+59,10204,740 North Moorpark Rd,"https://www.google.com/maps/dir/?api=1&destination=34.187709,-118.873257",Thousand Oaks,CA,91360,34.187709,-118.873257
+60,10318,650 Town Center Dr,"https://www.google.com/maps/dir/?api=1&destination=34.24025699,-119.1793984",Oxnard,CA,93036,34.24025699,-119.1793984
+61,10447,270 Palladio Pkwy,"https://www.google.com/maps/dir/?api=1&destination=38.64869286,-121.1180005",Folsom,CA,95630,38.64869286,-121.1180005
+62,10230,1001 Galleria Blvd,"https://www.google.com/maps/dir/?api=1&destination=38.76733887,-121.2672613",Roseville,CA,95678,38.76733887,-121.2672613
+63,10152,4315 Arden Way,"https://www.google.com/maps/dir/?api=1&destination=38.596639,-121.363794",Sacramento,CA,95864,38.596639,-121.363794
+64,10255,3761 State St,"https://www.google.com/maps/dir/?api=1&destination=34.43934579,-119.7455127",Santa Barbara,CA,93105,34.43934579,-119.7455127
+65,10584,1531 Froom Ranch Way,"https://www.google.com/maps/dir/?api=1&destination=35.250638,-120.687432",San Luis Obispo,CA,93405,35.250638,-120.687432
+66,10547,5200 Dublin Blvd,"https://www.google.com/maps/dir/?api=1&destination=37.70564819,-121.8897771",Dublin,CA,94568,37.70564819,-121.8897771
+67,10126,100 Sunset Dr,"https://www.google.com/maps/dir/?api=1&destination=37.761759,-121.961301",San Ramon,CA,94583,37.761759,-121.961301
+68,10548,2941 Ygnacio Valley Rd,"https://www.google.com/maps/dir/?api=1&destination=37.925907,-122.015352",Walnut Creek,CA,94598,37.925907,-122.015352
+69,10677,"2085 Diamond Blvd, Ste 125","https://www.google.com/maps/dir/?api=1&destination=37.974136,-122.058839",Concord,CA,94520,37.974136,-122.058839
+70,10101,1333 Newell Ave,"https://www.google.com/maps/dir/?api=1&destination=37.892732,-122.055304",Walnut Creek,CA,94596,37.892732,-122.055304
+71,10259,777 The Alameda,"https://www.google.com/maps/dir/?api=1&destination=37.332295,-121.904991",San Jose,CA,95126,37.332295,-121.904991
+72,10320,1146 Blossom Hill Rd,"https://www.google.com/maps/dir/?api=1&destination=37.24942149,-121.8769581",San Jose,CA,95118,37.24942149,-121.8769581
+73,10467,3111 Mowry Ave,"https://www.google.com/maps/dir/?api=1&destination=37.55489857,-121.9850735",Fremont,CA,94538,37.55489857,-121.9850735
+74,10349,3502 Mt Diablo Blvd,"https://www.google.com/maps/dir/?api=1&destination=37.89326688,-122.1171121",Lafayette,CA,94549,37.89326688,-122.1171121
+75,10033,1690 S Bascom Ave,"https://www.google.com/maps/dir/?api=1&destination=37.29291591,-121.9304872",Campbell,CA,95008,37.29291591,-121.9304872
+76,10633,"2732 Augustine Dr , Ste 1600","https://www.google.com/maps/dir/?api=1&destination=37.3808,-121.976",Santa Clara,CA,95054,37.3808,-121.976
+77,10027,15980 Los Gatos Blvd,"https://www.google.com/maps/dir/?api=1&destination=37.23612,-121.961389",Los Gatos,CA,95032,37.23612,-121.961389
+78,10288,3682 Bel Aire Plaza,"https://www.google.com/maps/dir/?api=1&destination=38.323501,-122.30663",Napa,CA,94558,38.323501,-122.30663
+79,10707,150 E McKinley Ave,"https://www.google.com/maps/dir/?api=1&destination=37.373982,-122.030499",Sunnyvale,CA,94086,37.373982,-122.030499
+80,10267,20955 Stevens Creek Blvd,"https://www.google.com/maps/dir/?api=1&destination=37.3234975,-122.0396621",Cupertino,CA,95014,37.3234975,-122.0396621
+81,10365,1710 41st Ave,"https://www.google.com/maps/dir/?api=1&destination=36.974291,-121.963562",Capitola,CA,95010,36.974291,-121.963562
+82,10155,4800 El Camino Real,"https://www.google.com/maps/dir/?api=1&destination=37.398989,-122.110571",Los Altos,CA,94022,37.398989,-122.110571
+83,10006,3000 Telegraph Ave,"https://www.google.com/maps/dir/?api=1&destination=37.855461,-122.260418",Berkeley,CA,94705,37.855461,-122.260418
+84,10708,5110 Telegraph Ave,"https://www.google.com/maps/dir/?api=1&destination=37.8376579,-122.2615756",Oakland,CA,94609,37.8376579,-122.2615756
+85,10221,230 Bay Pl,"https://www.google.com/maps/dir/?api=1&destination=37.812934,-122.260504",Oakland,CA,94612,37.812934,-122.260504
+86,10530,1025 Gilman St,"https://www.google.com/maps/dir/?api=1&destination=37.880873,-122.297552",Berkeley,CA,94710,37.880873,-122.297552
+87,10005,774 Emerson St,"https://www.google.com/maps/dir/?api=1&destination=37.442281,-122.159372",Palo Alto,CA,94301,37.442281,-122.159372
+88,10329,911 Soquel Ave,"https://www.google.com/maps/dir/?api=1&destination=36.97883942,-122.0145671",Santa Cruz,CA,95062,36.97883942,-122.0145671
+89,10281,201 W Napa St,"https://www.google.com/maps/dir/?api=1&destination=38.291326,-122.462716",Sonoma,CA,95476,38.291326,-122.462716
+90,10087,800 Del Monte Center,"https://www.google.com/maps/dir/?api=1&destination=36.58338,-121.90037",Monterey,CA,93940,36.58338,-121.90037
+91,10154,1250 Jefferson Ave,"https://www.google.com/maps/dir/?api=1&destination=37.482311,-122.231638",Redwood City,CA,94062,37.482311,-122.231638
+92,10150,1010 Park Pl,"https://www.google.com/maps/dir/?api=1&destination=37.543935,-122.291697",San Mateo,CA,94403,37.543935,-122.291697
+93,10151,399 4th St,"https://www.google.com/maps/dir/?api=1&destination=37.781155,-122.399626",San Francisco,CA,94107,37.781155,-122.399626
+94,10238,450 Rhode Island St,"https://www.google.com/maps/dir/?api=1&destination=37.764634,-122.402825",San Francisco,CA,94107,37.764634,-122.402825
+95,10044,1765 California St,"https://www.google.com/maps/dir/?api=1&destination=37.789948,-122.423405",San Francisco,CA,94109,37.789948,-122.423405
+96,10396,2001 Market St,"https://www.google.com/maps/dir/?api=1&destination=37.76861,-122.427133",San Francisco,CA,94114,37.76861,-122.427133
+97,10379,3950 24th St,"https://www.google.com/maps/dir/?api=1&destination=37.751914,-122.430835",San Francisco,CA,94114,37.751914,-122.430835
+98,10362,690 Stanyan St,"https://www.google.com/maps/dir/?api=1&destination=37.769562,-122.45278",San Francisco,CA,94117,37.769562,-122.45278
+99,10071,340 3rd St,"https://www.google.com/maps/dir/?api=1&destination=37.971236,-122.516766",San Rafael,CA,94901,37.971236,-122.516766
+100,10234,790 De Long Ave,"https://www.google.com/maps/dir/?api=1&destination=38.10588079,-122.5654436",Novato,CA,94945,38.10588079,-122.5654436
+101,10432,1150 Ocean Ave,"https://www.google.com/maps/dir/?api=1&destination=37.7237013,-122.4543674",San Francisco,CA,94112,37.7237013,-122.4543674
+102,10139,1181 Yulupa Ave,"https://www.google.com/maps/dir/?api=1&destination=38.44240874,-122.6745087",Santa Rosa,CA,95405,38.44240874,-122.6745087
+103,10337,731 E Blithedale Ave,"https://www.google.com/maps/dir/?api=1&destination=37.90251522,-122.525902",Mill Valley,CA,94941,37.90251522,-122.525902
+104,10717,"3251 20th Ave, Suite 340","https://www.google.com/maps/dir/?api=1&destination=37.728,-122.4771",San Francisco,CA,94132,37.728,-122.4771
+105,10138,621 E Washington St,"https://www.google.com/maps/dir/?api=1&destination=38.241187,-122.634423",Petaluma,CA,94952,38.241187,-122.634423
+106,10009,414 Miller Ave,"https://www.google.com/maps/dir/?api=1&destination=37.896109,-122.536231",Mill Valley,CA,94941,37.896109,-122.536231
+107,10370,390 Coddingtown Mall,"https://www.google.com/maps/dir/?api=1&destination=38.45797474,-122.7317999",Santa Rosa,CA,95401,38.45797474,-122.7317999
+108,10137,6910 McKinley St,"https://www.google.com/maps/dir/?api=1&destination=38.403778,-122.824105",Sebastopol,CA,95472,38.403778,-122.824105
+109,10146,7635 N Academy Blvd,"https://www.google.com/maps/dir/?api=1&destination=38.94201627,-104.797551",Colorado Springs,CO,80920,38.94201627,-104.797551
+110,10207,"7400 E Hampden Ave, Unit D","https://www.google.com/maps/dir/?api=1&destination=39.652019,-104.901844",Denver,CO,80231,39.652019,-104.901844
+111,10459,6384 Promenade Pkwy,"https://www.google.com/maps/dir/?api=1&destination=39.42338,-104.87755",Castle Rock,CO,80108,39.42338,-104.87755
+112,10331,870 S Colorado Blvd,"https://www.google.com/maps/dir/?api=1&destination=39.700741,-104.939652",Glendale,CO,80246,39.700741,-104.939652
+113,10095,2375 E 1st Ave,"https://www.google.com/maps/dir/?api=1&destination=39.71852283,-104.9579425",Denver,CO,80206,39.71852283,-104.9579425
+114,10142,"9366 S Colorado Blvd, Ste B","https://www.google.com/maps/dir/?api=1&destination=39.545043,-104.942097",Highlands Ranch,CO,80126,39.545043,-104.942097
+115,10273,"6853 S York , Ste 119","https://www.google.com/maps/dir/?api=1&destination=39.592051,-104.962116",Centennial,CO,80122,39.592051,-104.962116
+116,10746,900 E 11th Ave,"https://www.google.com/maps/dir/?api=1&destination=39.733292,-104.97578",Denver,CO,80218,39.733292,-104.97578
+117,10373,1111 S Washington St,"https://www.google.com/maps/dir/?api=1&destination=39.695988,-104.979965",Denver,CO,80210,39.695988,-104.979965
+118,10626,1701 Wewatta St,"https://www.google.com/maps/dir/?api=1&destination=39.754583,-105.001449",Denver,CO,80202,39.754583,-105.001449
+119,10556,4451 Main St,"https://www.google.com/maps/dir/?api=1&destination=39.913407,-105.044668",Westminster,CO,80031,39.913407,-105.044668
+120,10218,444 S Wadsworth Blvd,"https://www.google.com/maps/dir/?api=1&destination=39.70861913,-105.0808543",Lakewood,CO,80226,39.70861913,-105.0808543
+121,10471,5155 S Wadsworth Blvd,"https://www.google.com/maps/dir/?api=1&destination=39.623154,-105.092234",Littleton,CO,80123,39.623154,-105.092234
+122,10147,2201 S College Ave,"https://www.google.com/maps/dir/?api=1&destination=40.558999,-105.078926",Fort Collins,CO,80525,40.558999,-105.078926
+123,10554,"1250 South Hover Rd, Ste 300","https://www.google.com/maps/dir/?api=1&destination=40.14519213,-105.1294459",Longmont,CO,80501,40.14519213,-105.1294459
+124,10445,303 Marshall Rd,"https://www.google.com/maps/dir/?api=1&destination=39.9565471,-105.1679136",Superior,CO,80027,39.9565471,-105.1679136
+125,10350,14357 W Colfax Ave,"https://www.google.com/maps/dir/?api=1&destination=39.736505,-105.161477",Golden,CO,80401,39.736505,-105.161477
+126,10785,695 S Broadway,"https://www.google.com/maps/dir/?api=1&destination=39.983106,-105.248489",Boulder,CO,80305,39.983106,-105.248489
+127,10083,2905 Pearl St,"https://www.google.com/maps/dir/?api=1&destination=40.023856,-105.25593",Boulder,CO,80301,40.023856,-105.25593
+128,10423,1275 Alpine Ave,"https://www.google.com/maps/dir/?api=1&destination=40.026016,-105.28081",Boulder,CO,80304,40.026016,-105.28081
+129,10470,261 Lusher Ct,"https://www.google.com/maps/dir/?api=1&destination=39.5885327,-106.1004297",Frisco,CO,80443,39.5885327,-106.1004297
+130,10298,340 Reed St,"https://www.google.com/maps/dir/?api=1&destination=39.3870291,-107.0827613",Basalt,CO,81621,39.3870291,-107.0827613
+131,10057,90 E Putnam Ave,"https://www.google.com/maps/dir/?api=1&destination=41.033122,-73.623931",Greenwich,CT,06830,41.033122,-73.623931
+132,10455,5C Sugar Hollow Rd,"https://www.google.com/maps/dir/?api=1&destination=41.377866,-73.475708",Danbury,CT,06810,41.377866,-73.475708
+133,10300,150 Ledge Rd,"https://www.google.com/maps/dir/?api=1&destination=41.073271,-73.476173",Darien,CT,06820,41.073271,-73.476173
+134,10355,399 Post Rd W,"https://www.google.com/maps/dir/?api=1&destination=41.128085,-73.379973",Westport,CT,06880,41.128085,-73.379973
+135,10317,350 Grasmere Ave,"https://www.google.com/maps/dir/?api=1&destination=41.158234,-73.240134",Fairfield,CT,06824,41.158234,-73.240134
+136,10389,1686 Boston Post Road,"https://www.google.com/maps/dir/?api=1&destination=41.248251,-73.025162",Milford,CT,06460,41.248251,-73.025162
+137,10770,50 Climax Rd,"https://www.google.com/maps/dir/?api=1&destination=41.811769,-72.838305",Avon,CT,06001,41.811769,-72.838305
+138,10366,340 N Main St,"https://www.google.com/maps/dir/?api=1&destination=41.784729,-72.745477",West Hartford,CT,06117,41.784729,-72.745477
+139,10217,50 Raymond Rd,"https://www.google.com/maps/dir/?api=1&destination=41.76096264,-72.73893213",West Hartford,CT,06107,41.76096264,-72.73893213
+140,10336,55 Welles St,"https://www.google.com/maps/dir/?api=1&destination=41.714842,-72.607763",Glastonbury,CT,06033,41.714842,-72.607763
+141,10794,800 Evergreen Way,"https://www.google.com/maps/dir/?api=1&destination=41.8156358136008,-72.55602651",South Windsor,CT,06074,41.8156358136008,-72.55602651
+142,10062,"4530 40th St NW, Tenley Circle","https://www.google.com/maps/dir/?api=1&destination=38.949055,-77.079298",Washington,DC,20016,38.949055,-77.079298
+143,10780,"2323 Wisconsin Ave, NW","https://www.google.com/maps/dir/?api=1&destination=38.920936,-77.071286",Washington,DC,20007,38.920936,-77.071286
+144,10414,2201 I Street NW,"https://www.google.com/maps/dir/?api=1&destination=38.900843,-77.049016",Washington,DC,20037,38.900843,-77.049016
+145,10777,7130 12th Street NW,"https://www.google.com/maps/dir/?api=1&destination=38.9765737,-77.0281346",Washington,DC,20012,38.9765737,-77.0281346
+146,10135,1440 P Street NW,"https://www.google.com/maps/dir/?api=1&destination=38.909371,-77.033419",Washington,DC,20005,38.909371,-77.033419
+147,10651,967 Florida Avenue NW,"https://www.google.com/maps/dir/?api=1&destination=38.9196,-77.0247",Washington,DC,20001,38.9196,-77.0247
+148,10563,101 H St SE,"https://www.google.com/maps/dir/?api=1&destination=38.88026,-77.005132",Washington,DC,20003,38.88026,-77.005132
+149,10565,600 H St NE,"https://www.google.com/maps/dir/?api=1&destination=38.900447,-76.998054",Washington,DC,20002,38.900447,-76.998054
+150,10621,4402 Legendary Dr,"https://www.google.com/maps/dir/?api=1&destination=30.39023957,-86.42003848",Destin,FL,32541,30.39023957,-86.42003848
+151,10478,1817 Thomasville Rd,"https://www.google.com/maps/dir/?api=1&destination=30.462981,-84.269918",Tallahassee,FL,32303,30.462981,-84.269918
+152,10704,3490 SW Archer Rd,"https://www.google.com/maps/dir/?api=1&destination=29.625708,-82.375989",Gainesville,FL,32608,29.625708,-82.375989
+153,10253,10601 San Jose Blvd,"https://www.google.com/maps/dir/?api=1&destination=30.1849746,-81.6259731",Jacksonville,FL,32257,30.1849746,-81.6259731
+154,10648,2050 3rd St S,"https://www.google.com/maps/dir/?api=1&destination=30.270282,-81.390046",Jacksonville Beach,FL,32250,30.270282,-81.390046
+155,10515,27001 US 19 N,"https://www.google.com/maps/dir/?api=1&destination=28.016949,-82.73576",Clearwater,FL,33761,28.016949,-82.73576
+156,10339,3802 Northdale Blvd,"https://www.google.com/maps/dir/?api=1&destination=28.09317937,-82.50414593",Tampa,FL,33624,28.09317937,-82.50414593
+157,10723,3740 Midtown Dr,"https://www.google.com/maps/dir/?api=1&destination=27.952455,-82.504749",Tampa,FL,33607,27.952455,-82.504749
+158,10516,"305 E Altamonte Dr, Ste 1000","https://www.google.com/maps/dir/?api=1&destination=28.664256,-81.381454",Altamonte Springs,FL,32701,28.664256,-81.381454
+159,10580,1030 N Orlando Ave,"https://www.google.com/maps/dir/?api=1&destination=28.606846,-81.363309",Winter Park,FL,32789,28.606846,-81.363309
+160,10194,"8003 Turkey Lake Rd, Phillips Crossing","https://www.google.com/maps/dir/?api=1&destination=28.44918496,-81.47673732",Orlando,FL,32819,28.44918496,-81.47673732
+161,10189,1451 1st St,"https://www.google.com/maps/dir/?api=1&destination=27.337654,-82.541217",Sarasota,FL,34236,27.337654,-82.541217
+162,10642,5298 University Pkwy,"https://www.google.com/maps/dir/?api=1&destination=27.386894,-82.464528",Sarasota,FL,34243,27.386894,-82.464528
+163,10669,"6891 Daniels Pkwy, Suite 100","https://www.google.com/maps/dir/?api=1&destination=26.547953,-81.842444",Fort Myers,FL,33912,26.547953,-81.842444
+164,10192,9101 Strada Pl,"https://www.google.com/maps/dir/?api=1&destination=26.254626,-81.800214",Naples,FL,34108,26.254626,-81.800214
+165,10188,11701 Lake Victoria Gardens Ave,"https://www.google.com/maps/dir/?api=1&destination=26.84823415,-80.09433312",Palm Beach Gardens,FL,33410,26.84823415,-80.09433312
+166,10195,2635 FL-7,"https://www.google.com/maps/dir/?api=1&destination=26.64126,-80.206286",Wellington,FL,33414,26.64126,-80.206286
+167,10529,1845 Palm Beach Lakes Blvd,"https://www.google.com/maps/dir/?api=1&destination=26.72068198,-80.08922987",West Palm Beach,FL,33401,26.72068198,-80.08922987
+168,10739,680 Linton Blvd,"https://www.google.com/maps/dir/?api=1&destination=26.439288,-80.079591",Delray Beach,FL,33444,26.439288,-80.079591
+169,10130,"1400 Glades Rd, Ste 110","https://www.google.com/maps/dir/?api=1&destination=26.36599434,-80.11492607",Boca Raton,FL,33431,26.36599434,-80.11492607
+170,10088,810 University Dr,"https://www.google.com/maps/dir/?api=1&destination=26.2425174,-80.25666611",Coral Springs,FL,33071,26.2425174,-80.25666611
+171,10352,2411 N Federal Hwy,"https://www.google.com/maps/dir/?api=1&destination=26.261521,-80.101005",Pompano Beach,FL,33062,26.261521,-80.101005
+172,10549,1903 S University Dr,"https://www.google.com/maps/dir/?api=1&destination=26.09671937,-80.25195291",Davie,FL,33324,26.09671937,-80.25195291
+173,10193,14956 Pines Blvd,"https://www.google.com/maps/dir/?api=1&destination=26.00651076,-80.34972185",Pembroke Pines,FL,33027,26.00651076,-80.34972185
+174,10117,2000 N Federal Hwy,"https://www.google.com/maps/dir/?api=1&destination=26.153671,-80.117585",Fort Lauderdale,FL,33305,26.153671,-80.117585
+175,10715,501 SE 17th St,"https://www.google.com/maps/dir/?api=1&destination=26.100564,-80.137952",Fort Lauderdale,FL,33316,26.100564,-80.137952
+176,10096,21105 Biscayne Blvd,"https://www.google.com/maps/dir/?api=1&destination=25.971134,-80.140821",Aventura,FL,33180,25.971134,-80.140821
+177,10477,12150 Biscayne Blvd,"https://www.google.com/maps/dir/?api=1&destination=25.887864,-80.165262",North Miami,FL,33181,25.887864,-80.165262
+178,10190,6701 Red Rd,"https://www.google.com/maps/dir/?api=1&destination=25.706282,-80.284659",Coral Gables,FL,33143,25.706282,-80.284659
+179,10682,7930 SW 104th St,"https://www.google.com/maps/dir/?api=1&destination=25.6734,-80.3233",Miami,FL,33156,25.6734,-80.3233
+180,10191,299 SE 3rd Ave,"https://www.google.com/maps/dir/?api=1&destination=25.772077,-80.189606",Miami,FL,33131,25.772077,-80.189606
+181,10285,1020 Alton Rd,"https://www.google.com/maps/dir/?api=1&destination=25.780968,-80.14119",Miami Beach,FL,33139,25.780968,-80.14119
+182,10590,1300 Ernest Barrett Pkwy,"https://www.google.com/maps/dir/?api=1&destination=33.997529,-84.589564",Kennesaw,GA,30144,33.997529,-84.589564
+183,10342,"1311 Johnson Ferry Rd NE, Ste 580","https://www.google.com/maps/dir/?api=1&destination=33.98099319,-84.42777085",Marietta,GA,30068,33.98099319,-84.42777085
+184,10488,2800 Old Milton Pkwy,"https://www.google.com/maps/dir/?api=1&destination=34.06934,-84.278488",Alpharetta,GA,30009,34.06934,-84.278488
+185,10136,5930 Roswell Rd,"https://www.google.com/maps/dir/?api=1&destination=33.918073,-84.379946",Atlanta,GA,30328,33.918073,-84.379946
+186,10697,3535 Northside Pkwy,"https://www.google.com/maps/dir/?api=1&destination=33.850181,-84.429551",Atlanta,GA,30327,33.850181,-84.429551
+187,10206,77 West Paces Ferry Rd NW,"https://www.google.com/maps/dir/?api=1&destination=33.840841,-84.381148",Atlanta,GA,30305,33.840841,-84.381148
+188,10650,22 14th St NW,"https://www.google.com/maps/dir/?api=1&destination=33.7864,-84.389",Atlanta,GA,30309,33.7864,-84.389
+189,10649,"5001 Peachtree Blvd, Bldg 300","https://www.google.com/maps/dir/?api=1&destination=33.88506,-84.314124",Atlanta,GA,30341,33.88506,-84.314124
+190,10196,650 Ponce de Leon Ave NE,"https://www.google.com/maps/dir/?api=1&destination=33.774805,-84.365756",Atlanta,GA,30308,33.774805,-84.365756
+191,10215,5945 State Bridge Rd,"https://www.google.com/maps/dir/?api=1&destination=34.013142,-84.183577",Duluth,GA,30097,34.013142,-84.183577
+192,10687,1555 Church St,"https://www.google.com/maps/dir/?api=1&destination=33.792778,-84.28424",Decatur,GA,30033,33.792778,-84.28424
+193,10489,"1815 E Victory Dr , Ste 101","https://www.google.com/maps/dir/?api=1&destination=32.043193,-81.071326",Savannah,GA,31404,32.043193,-81.071326
+194,10374,70 E Kaahumanu Ave,"https://www.google.com/maps/dir/?api=1&destination=20.891489,-156.464368",Kahului,HI,96732,20.891489,-156.464368
+195,10368,"629 Kailua Rd, Ste 100","https://www.google.com/maps/dir/?api=1&destination=21.393653,-157.743038",Kailua,HI,96734,21.393653,-157.743038
+196,10363,"4211 Wai'alae Ave, Ste 2000","https://www.google.com/maps/dir/?api=1&destination=21.277528,-157.786736",Honolulu,HI,96816,21.277528,-157.786736
+197,10615,"388 Kamakee St, Street 100","https://www.google.com/maps/dir/?api=1&destination=21.294663,-157.852284",Honolulu,HI,96814,21.294663,-157.852284
+198,10284,401 S Broadway Ave,"https://www.google.com/maps/dir/?api=1&destination=43.60778205,-116.1945271",Boise,ID,83702,43.60778205,-116.1945271
+199,10129,2607 W 75th St,"https://www.google.com/maps/dir/?api=1&destination=41.74889505,-88.20000231",Naperville,IL,60540,41.74889505,-88.20000231
+200,10661,89 Danada Square East,"https://www.google.com/maps/dir/?api=1&destination=41.83021764,-88.10182521",Wheaton,IL,60189,41.83021764,-88.10182521
+201,10276,750 N Martingale Rd,"https://www.google.com/maps/dir/?api=1&destination=42.04245,-88.036448",Schaumburg,IL,60173,42.04245,-88.036448
+202,10573,6300 Kingery Hwy,"https://www.google.com/maps/dir/?api=1&destination=41.773077,-87.949487",Willowbrook,IL,60527,41.773077,-87.949487
+203,10292,20281 Rand Rd,"https://www.google.com/maps/dir/?api=1&destination=42.15935023,-88.0440531",Kildeer,IL,60047,42.15935023,-88.0440531
+204,10569,215 S IL Rte 83,"https://www.google.com/maps/dir/?api=1&destination=41.893908,-87.960497",Elmhurst,IL,60126,41.893908,-87.960497
+205,10364,500 E Ogden Ave,"https://www.google.com/maps/dir/?api=1&destination=41.817478,-87.916802",Hinsdale,IL,60521,41.817478,-87.916802
+206,10481,15260 South La Grange Road,"https://www.google.com/maps/dir/?api=1&destination=41.6127,-87.854975",Orland Park,IL,60462,41.6127,-87.854975
+207,10680,851 N Milwaukee Ave,"https://www.google.com/maps/dir/?api=1&destination=42.241203,-87.943845",Vernon Hills,IL,60061,42.241203,-87.943845
+208,10029,7245 Lake St,"https://www.google.com/maps/dir/?api=1&destination=41.887286,-87.806366",River Forest,IL,60305,41.887286,-87.806366
+209,10495,225 W Touhy Ave,"https://www.google.com/maps/dir/?api=1&destination=42.010708,-87.824619",Park Ridge,IL,60068,42.010708,-87.824619
+210,10116,760 Waukegan Rd,"https://www.google.com/maps/dir/?api=1&destination=42.166232,-87.848029",Deerfield,IL,60015,42.166232,-87.848029
+211,10244,"840 Willow Rd, Suite M","https://www.google.com/maps/dir/?api=1&destination=42.10662879,-87.80082243",Northbrook,IL,60062,42.10662879,-87.80082243
+212,10720,9600 S Western Ave,"https://www.google.com/maps/dir/?api=1&destination=41.717723,-87.684647",Evergreen Park,IL,60805,41.717723,-87.684647
+213,10170,6020 N Cicero Ave,"https://www.google.com/maps/dir/?api=1&destination=41.990369,-87.748827",Chicago,IL,60646,41.990369,-87.748827
+214,10643,3201 N. Ashland Ave,"https://www.google.com/maps/dir/?api=1&destination=41.9399,-87.6684",Chicago,IL,60657,41.9399,-87.6684
+215,10570,2748 Green Bay Rd,"https://www.google.com/maps/dir/?api=1&destination=42.067922,-87.702023",Evanston,IL,60201,42.067922,-87.702023
+216,10572,1 N Halsted St,"https://www.google.com/maps/dir/?api=1&destination=41.88192,-87.6471",Chicago,IL,60661,41.88192,-87.6471
+217,10252,1550 N Kingsbury St,"https://www.google.com/maps/dir/?api=1&destination=41.90912822,-87.65311279",Chicago,IL,60642,41.90912822,-87.65311279
+218,10171,"1101 S Canal St, Ste 107","https://www.google.com/maps/dir/?api=1&destination=41.868502,-87.638494",Chicago,IL,60607,41.868502,-87.638494
+219,10076,1640 Chicago Ave,"https://www.google.com/maps/dir/?api=1&destination=42.047623,-87.679494",Evanston,IL,60201,42.047623,-87.679494
+220,10203,3640 N Halsted St,"https://www.google.com/maps/dir/?api=1&destination=41.948349,-87.649734",Chicago,IL,60613,41.948349,-87.649734
+221,10568,6009 N Broadway,"https://www.google.com/maps/dir/?api=1&destination=41.99122,-87.660049",Chicago,IL,60660,41.99122,-87.660049
+222,10740,3 West Chicago Ave,"https://www.google.com/maps/dir/?api=1&destination=41.89665,-87.62864",Chicago,IL,60654,41.89665,-87.62864
+223,10571,255 E Grand Ave,"https://www.google.com/maps/dir/?api=1&destination=41.891671,-87.620864",Chicago,IL,60611,41.891671,-87.620864
+224,10458,5118 S Lake Park Ave,"https://www.google.com/maps/dir/?api=1&destination=41.802025,-87.588171",Chicago,IL,60615,41.802025,-87.588171
+225,10597,320 E Market St,"https://www.google.com/maps/dir/?api=1&destination=39.768591,-86.152368",Indianapolis,IN,46204,39.768591,-86.152368
+226,10378,1300 E 86th St,"https://www.google.com/maps/dir/?api=1&destination=39.91418,-86.137108",Indianapolis,IN,46240,39.91418,-86.137108
+227,10585,199 US-41,"https://www.google.com/maps/dir/?api=1&destination=41.51927963,-87.47060904",Schererville,IN,46375,41.51927963,-87.47060904
+228,10404,14598 Clay Terrace Blvd,"https://www.google.com/maps/dir/?api=1&destination=39.999084,-86.131076",Carmel,IN,46032,39.999084,-86.131076
+229,10482,4230 Grape Rd,"https://www.google.com/maps/dir/?api=1&destination=41.699025,-86.185709",Mishawaka,IN,46545,41.699025,-86.185709
+230,10460,4100 University Ave,"https://www.google.com/maps/dir/?api=1&destination=41.59807959,-93.76099722",West Des Moines,IA,50266,41.59807959,-93.76099722
+231,10457,301 E 51st St,"https://www.google.com/maps/dir/?api=1&destination=39.034274,-94.583348",Kansas City,MO,64112,39.034274,-94.583348
+232,10504,"1423 N Webb Rd, Ste 101","https://www.google.com/maps/dir/?api=1&destination=37.70898391,-97.22792907",Wichita,KS,67206,37.70898391,-97.22792907
+233,10538,14615 W 119th St,"https://www.google.com/maps/dir/?api=1&destination=38.91146412,-94.75657432",Olathe,KS,66062,38.91146412,-94.75657432
+234,10800,11900 Metcalf Ave,"https://www.google.com/maps/dir/?api=1&destination=38.91208,-94.66837",Overland Park,KS,66213,38.91208,-94.66837
+235,10186,4944 Shelbyville Rd,"https://www.google.com/maps/dir/?api=1&destination=38.248506,-85.627028",Louisville,KY,40207,38.248506,-85.627028
+236,10577,4059 Finn Way,"https://www.google.com/maps/dir/?api=1&destination=37.9775882,-84.52861599",Lexington,KY,40517,37.9775882,-84.52861599
+237,10575,1380 E 70th St,"https://www.google.com/maps/dir/?api=1&destination=32.44396978,-93.72698291",Shreveport,LA,71105,32.44396978,-93.72698291
+238,10528,4247 Ambassador Caffery Pkwy,"https://www.google.com/maps/dir/?api=1&destination=30.16090999,-92.05194491",Lafayette,LA,70508,30.16090999,-92.05194491
+239,10198,7529 Corporate Blvd,"https://www.google.com/maps/dir/?api=1&destination=30.43211493,-91.11119368",Baton Rouge,LA,70809,30.43211493,-91.11119368
+240,10631,3450 Hwy 190,"https://www.google.com/maps/dir/?api=1&destination=30.39053692,-90.08587181",Mandeville,LA,70471,30.39053692,-90.08587181
+241,10202,3420 Veterans Memorial Blvd,"https://www.google.com/maps/dir/?api=1&destination=30.00200103,-90.15897266",Metairie,LA,70002,30.00200103,-90.15897266
+242,10522,300 N Broad St,"https://www.google.com/maps/dir/?api=1&destination=29.9672,-90.084799",New Orleans,LA,70119,29.9672,-90.084799
+243,10143,5600 Magazine St,"https://www.google.com/maps/dir/?api=1&destination=29.921124,-90.117495",New Orleans,LA,70115,29.921124,-90.117495
+244,10291,2 Somerset St,"https://www.google.com/maps/dir/?api=1&destination=43.663298,-70.258754",Portland,ME,04101,43.663298,-70.258754
+245,10180,316 Kentlands Blvd,"https://www.google.com/maps/dir/?api=1&destination=39.122641,-77.237729",Gaithersburg,MD,20878,39.122641,-77.237729
+246,10235,11355 Woodglen Dr,"https://www.google.com/maps/dir/?api=1&destination=39.042978,-77.112956",Rockville,MD,20852,39.042978,-77.112956
+247,10048,5269 River Rd,"https://www.google.com/maps/dir/?api=1&destination=38.966156,-77.104163",Bethesda,MD,20816,38.966156,-77.104163
+248,10211,4420 Willard Ave,"https://www.google.com/maps/dir/?api=1&destination=38.960896,-77.086646",Chevy Chase,MD,20815,38.960896,-77.086646
+249,10118,833 Wayne Ave,"https://www.google.com/maps/dir/?api=1&destination=38.996059,-77.024091",Silver Spring,MD,20910,38.996059,-77.024091
+250,10463,6621-B Baltimore Ave,"https://www.google.com/maps/dir/?api=1&destination=38.969186,-76.936683",Riverdale,MD,20737,38.969186,-76.936683
+251,10499,10275 Little Patuxent Pkwy,"https://www.google.com/maps/dir/?api=1&destination=39.213938,-76.855891",Columbia,MD,21044,39.213938,-76.855891
+252,10064,1330 Smith Ave,"https://www.google.com/maps/dir/?api=1&destination=39.368299,-76.649505",Baltimore,MD,21209,39.368299,-76.649505
+253,10769,300 Towson Row,"https://www.google.com/maps/dir/?api=1&destination=39.39916178,-76.60387932",Towson,MD,21204,39.39916178,-76.60387932
+254,10638,711 S Central Ave,"https://www.google.com/maps/dir/?api=1&destination=39.2829,-76.5985",Baltimore,MD,21202,39.2829,-76.5985
+255,10228,"200 Harker Pl, Ste 100","https://www.google.com/maps/dir/?api=1&destination=38.982091,-76.5401845",Annapolis,MD,21401,38.982091,-76.5401845
+256,10012,327 Russell St,"https://www.google.com/maps/dir/?api=1&destination=42.353265,-72.55537",Hadley,MA,01035,42.353265,-72.55537
+257,10619,193 Boston Turnpike,"https://www.google.com/maps/dir/?api=1&destination=42.275403,-71.746577",Shrewsbury,MA,01545,42.275403,-71.746577
+258,10091,255 Hartford Ave,"https://www.google.com/maps/dir/?api=1&destination=42.111262,-71.461699",Bellingham,MA,02019,42.111262,-71.461699
+259,10691,536 Boston Post Rd,"https://www.google.com/maps/dir/?api=1&destination=42.3612,-71.4318",Sudbury,MA,01776,42.3612,-71.4318
+260,10620,160 Littleton Rd,"https://www.google.com/maps/dir/?api=1&destination=42.567798,-71.420638",Westford,MA,01886,42.567798,-71.420638
+261,10156,575 Worcester Rd,"https://www.google.com/maps/dir/?api=1&destination=42.298595,-71.421094",Framingham,MA,01701,42.298595,-71.421094
+262,10413,442 Washington St,"https://www.google.com/maps/dir/?api=1&destination=42.30259091,-71.28560936",Wellesley,MA,02482,42.30259091,-71.28560936
+263,10090,170 Great Rd,"https://www.google.com/maps/dir/?api=1&destination=42.491232,-71.273584",Bedford,MA,01730,42.491232,-71.273584
+264,10013,916 Walnut St,"https://www.google.com/maps/dir/?api=1&destination=42.330017,-71.206404",Newton,MA,02461,42.330017,-71.206404
+265,10092,647 Washington St,"https://www.google.com/maps/dir/?api=1&destination=42.354128,-71.200137",Newton,MA,02458,42.354128,-71.200137
+266,10319,300 Legacy Pl,"https://www.google.com/maps/dir/?api=1&destination=42.2326354,-71.17785206",Dedham,MA,02026,42.2326354,-71.17785206
+267,10233,400 Cambridge Rd,"https://www.google.com/maps/dir/?api=1&destination=42.460479,-71.163527",Woburn,MA,01801,42.460479,-71.163527
+268,10507,808 Massachusetts Ave,"https://www.google.com/maps/dir/?api=1&destination=42.416395,-71.159388",Arlington,MA,02476,42.416395,-71.159388
+269,10371,40 Railroad St,"https://www.google.com/maps/dir/?api=1&destination=42.66094,-71.144555",Andover,MA,01810,42.66094,-71.144555
+270,10026,200 Alewife Brook Pkwy,"https://www.google.com/maps/dir/?api=1&destination=42.389065,-71.141721",Cambridge,MA,02138,42.389065,-71.141721
+271,10015,15 Washington St,"https://www.google.com/maps/dir/?api=1&destination=42.342859,-71.140425",Brighton,MA,02135,42.342859,-71.140425
+272,10380,2151 Mystic Valley Pkwy,"https://www.google.com/maps/dir/?api=1&destination=42.417132,-71.126707",Medford,MA,02155,42.417132,-71.126707
+273,10113,340 River St,"https://www.google.com/maps/dir/?api=1&destination=42.361094,-71.114159",Cambridge,MA,02139,42.361094,-71.114159
+274,10438,413 Centre St,"https://www.google.com/maps/dir/?api=1&destination=42.321389,-71.110961",Jamaica Plain,MA,02130,42.321389,-71.110961
+275,10511,45 Beacon St,"https://www.google.com/maps/dir/?api=1&destination=42.375849,-71.103179",Somerville,MA,02143,42.375849,-71.103179
+276,10010,115 Prospect St,"https://www.google.com/maps/dir/?api=1&destination=42.368135,-71.102353",Cambridge,MA,02139,42.368135,-71.102353
+277,10031,15 Westland Ave,"https://www.google.com/maps/dir/?api=1&destination=42.343962,-71.087272",Boston,MA,02115,42.343962,-71.087272
+278,10510,880 Main St,"https://www.google.com/maps/dir/?api=1&destination=42.464746,-71.062445",Melrose,MA,02176,42.464746,-71.062445
+279,10509,27 Austin St,"https://www.google.com/maps/dir/?api=1&destination=42.375645,-71.066334",Charlestown,MA,02129,42.375645,-71.066334
+280,10158,181 Cambridge St,"https://www.google.com/maps/dir/?api=1&destination=42.3619,-71.065447",Boston,MA,02114,42.3619,-71.065447
+281,10513,348 Harrison Ave,"https://www.google.com/maps/dir/?api=1&destination=42.345462,-71.063018",Boston,MA,02118,42.345462,-71.063018
+282,10452,427 Walnut St,"https://www.google.com/maps/dir/?api=1&destination=42.51418438,-71.03224126",Lynnfield,MA,01940,42.51418438,-71.03224126
+283,10506,35 Pleasant St,"https://www.google.com/maps/dir/?api=1&destination=42.17207393,-70.9535799",South Weymouth,MA,02190,42.17207393,-70.9535799
+284,10222,331 Paradise Rd,"https://www.google.com/maps/dir/?api=1&destination=42.47917769,-70.9051068",Swampscott,MA,01907,42.47917769,-70.9051068
+285,10159,94 Derby St,"https://www.google.com/maps/dir/?api=1&destination=42.17894401,-70.90784615",Hingham,MA,02043,42.17894401,-70.90784615
+286,10618,150 Brimbal Ave,"https://www.google.com/maps/dir/?api=1&destination=42.573537,-70.87945",Beverly,MA,01915,42.573537,-70.87945
+287,10512,990 Iyannough Rd,"https://www.google.com/maps/dir/?api=1&destination=41.672393,-70.301776",Hyannis,MA,02601,41.672393,-70.301776
+288,10790,2897 Radcliff Ave SE,"https://www.google.com/maps/dir/?api=1&destination=42.911088,-85.592794",Kentwood,MI,49512,42.911088,-85.592794
+289,10541,2750 E Grand River Ave,"https://www.google.com/maps/dir/?api=1&destination=42.728207,-84.453004",East Lansing,MI,48823,42.728207,-84.453004
+290,10315,990 W Eisenhower Pkwy,"https://www.google.com/maps/dir/?api=1&destination=42.248543,-83.758168",Ann Arbor,MI,48103,42.248543,-83.758168
+291,10167,3135 Washtenaw Ave,"https://www.google.com/maps/dir/?api=1&destination=42.258059,-83.698198",Ann Arbor,MI,48104,42.258059,-83.698198
+292,10120,7350 Orchard Lake Rd,"https://www.google.com/maps/dir/?api=1&destination=42.52924144,-83.36286065",West Bloomfield,MI,48322,42.52924144,-83.36286065
+293,10641,2100 E Maple Rd,"https://www.google.com/maps/dir/?api=1&destination=42.546736,-83.194466",Birmingham,MI,48009,42.546736,-83.194466
+294,10330,2918 Walton Blvd,"https://www.google.com/maps/dir/?api=1&destination=42.68214,-83.191685",Rochester Hills,MI,48309,42.68214,-83.191685
+295,10465,115 Mack Ave,"https://www.google.com/maps/dir/?api=1&destination=42.34849281,-83.05668135",Detroit,MI,48201,42.34849281,-83.05668135
+296,10419,7401 France Ave S,"https://www.google.com/maps/dir/?api=1&destination=44.867687,-93.328011",Edina,MN,55435,44.867687,-93.328011
+297,10422,1001 Plymouth Rd,"https://www.google.com/maps/dir/?api=1&destination=44.973958,-93.44569",Minnetonka,MN,55305,44.973958,-93.44569
+298,10119,3060 Excelsior Blvd,"https://www.google.com/maps/dir/?api=1&destination=44.947565,-93.322363",Minneapolis,MN,55416,44.947565,-93.322363
+299,10345,222 Hennepin Ave,"https://www.google.com/maps/dir/?api=1&destination=44.982511,-93.269054",Minneapolis,MN,55401,44.982511,-93.269054
+300,10490,12201 Elm Creek Blvd N,"https://www.google.com/maps/dir/?api=1&destination=45.091528,-93.435945",Maple Grove,MN,55369,45.091528,-93.435945
+301,10542,1575 Selby Ave,"https://www.google.com/maps/dir/?api=1&destination=44.946689,-93.166733",St. Paul,MN,55104,44.946689,-93.166733
+302,10628,305 Radio Dr,"https://www.google.com/maps/dir/?api=1&destination=44.94313312,-92.9304282",Woodbury,MN,55125,44.94313312,-92.9304282
+303,10486,4500 I-55 North,"https://www.google.com/maps/dir/?api=1&destination=32.354698,-90.149828",Jackson,MS,39211,32.354698,-90.149828
+304,10303,1160 Town and Country Crossing Dr,"https://www.google.com/maps/dir/?api=1&destination=38.622092,-90.515871",Town and Country,MO,63017,38.622092,-90.515871
+305,10166,1601 S Brentwood Blvd,"https://www.google.com/maps/dir/?api=1&destination=38.6270529,-90.34771794",St. Louis,MO,63144,38.6270529,-90.34771794
+306,10535,4577 W Pine Blvd,"https://www.google.com/maps/dir/?api=1&destination=38.64198815,-90.26165498",St. Louis,MO,63108,38.64198815,-90.26165498
+307,10786,2905 West Main Street,"https://www.google.com/maps/dir/?api=1&destination=45.6717943,-111.0787912",Bozeman,MT,59718,45.6717943,-111.0787912
+308,10493,6055 O St,"https://www.google.com/maps/dir/?api=1&destination=40.81291,-96.638998",Lincoln,NE,68510,40.81291,-96.638998
+309,10169,10020 Regency Cir,"https://www.google.com/maps/dir/?api=1&destination=41.261903,-96.068483",Omaha,NE,68114,41.261903,-96.068483
+310,10219,100 S Green Valley Pkwy,"https://www.google.com/maps/dir/?api=1&destination=36.02327222,-115.0825418",Henderson,NV,89012,36.02327222,-115.0825418
+311,10286,6689 Las Vegas Blvd,"https://www.google.com/maps/dir/?api=1&destination=36.06744919,-115.1743847",Las Vegas,NV,89119,36.06744919,-115.1743847
+312,10424,7250 W Lake Mead Blvd,"https://www.google.com/maps/dir/?api=1&destination=36.19757,-115.250074",Las Vegas,NV,89128,36.19757,-115.250074
+313,10174,8855 W Charleston Blvd,"https://www.google.com/maps/dir/?api=1&destination=36.1577904,-115.288182",Las Vegas,NV,89117,36.1577904,-115.288182
+314,10293,6139 S Virginia St,"https://www.google.com/maps/dir/?api=1&destination=39.46884037,-119.7868779",Reno,NV,89502,39.46884037,-119.7868779
+315,10462,255 Amherst St,"https://www.google.com/maps/dir/?api=1&destination=42.77957,-71.496514",Nashua,NH,03063,42.77957,-71.496514
+316,10617,121 S River Rd,"https://www.google.com/maps/dir/?api=1&destination=42.95464618,-71.47653996",Bedford,NH,03110,42.95464618,-71.47653996
+317,10778,1600 Woodbury Ave,"https://www.google.com/maps/dir/?api=1&destination=43.089217,-70.793659",Portsmouth,NH,03801,43.089217,-70.793659
+318,10526,1558 Kings Hwy N,"https://www.google.com/maps/dir/?api=1&destination=39.91587751,-75.01138446",Cherry Hill,NJ,08034,39.91587751,-75.01138446
+319,10086,940 Rt 73 N,"https://www.google.com/maps/dir/?api=1&destination=39.908072,-74.937997",Marlton,NJ,08053,39.908072,-74.937997
+320,10187,3495 US Rt 1 S,"https://www.google.com/maps/dir/?api=1&destination=40.308146,-74.668208",Princeton,NJ,08540,40.308146,-74.668208
+321,10639,319 Chimney Rock Rd,"https://www.google.com/maps/dir/?api=1&destination=40.576239,-74.562346",Bound Brook,NJ,08805,40.576239,-74.562346
+322,10519,110 Washington St,"https://www.google.com/maps/dir/?api=1&destination=40.799238,-74.488784",Morristown,NJ,07960,40.799238,-74.488784
+323,10501,60 Waterview Blvd,"https://www.google.com/maps/dir/?api=1&destination=40.875332,-74.431896",Parsippany,NJ,07054,40.875332,-74.431896
+324,10157,222 Main St,"https://www.google.com/maps/dir/?api=1&destination=40.753479,-74.405429",Madison,NJ,07940,40.753479,-74.405429
+325,10602,645 Middlesex Ave,"https://www.google.com/maps/dir/?api=1&destination=40.5398,-74.366",Metuchen,NJ,08840,40.5398,-74.366
+326,10576,"1255 Raritan Rd, Unit 150","https://www.google.com/maps/dir/?api=1&destination=40.63152359,-74.30426613",Clark,NJ,07066,40.63152359,-74.30426613
+327,10312,2245 Springfield Ave,"https://www.google.com/maps/dir/?api=1&destination=40.71703832,-74.28682615",Vauxhall,NJ,07088,40.71703832,-74.28682615
+328,10451,113 Route 9 South,"https://www.google.com/maps/dir/?api=1&destination=40.35191499,-74.30932204",Marlboro,NJ,07726,40.35191499,-74.30932204
+329,10265,235 Prospect Ave,"https://www.google.com/maps/dir/?api=1&destination=40.804218,-74.248906",West Orange,NJ,07052,40.804218,-74.248906
+330,10732,560 Valley Rd,"https://www.google.com/maps/dir/?api=1&destination=40.930789,-74.226614",Wayne,NJ,07470,40.930789,-74.226614
+331,10059,701 Bloomfield Ave,"https://www.google.com/maps/dir/?api=1&destination=40.818472,-74.223046",Montclair,NJ,07042,40.818472,-74.223046
+332,10559,633 Broad St,"https://www.google.com/maps/dir/?api=1&destination=40.740059,-74.17011",Newark,NJ,07102,40.740059,-74.17011
+333,10106,44 Godwin Ave,"https://www.google.com/maps/dir/?api=1&destination=40.978372,-74.122564",Ridgewood,NJ,07450,40.978372,-74.122564
+334,10774,500 Chestnut Ridge Road,"https://www.google.com/maps/dir/?api=1&destination=41.04283551,-74.0714826",Woodcliff Lake,NJ,07677,41.04283551,-74.0714826
+335,10279,300 Bergen Town Center,"https://www.google.com/maps/dir/?api=1&destination=40.91384342,-74.05734528",Paramus,NJ,07652,40.91384342,-74.05734528
+336,10213,471 St Rt 35 N,"https://www.google.com/maps/dir/?api=1&destination=40.375373,-74.087337",Red Bank,NJ,07701,40.375373,-74.087337
+337,10772,135 Greene St.,"https://www.google.com/maps/dir/?api=1&destination=40.71789,-74.03715",Jersey City,NJ,07311,40.71789,-74.03715
+338,10711,1400 Waterfront Terrace,"https://www.google.com/maps/dir/?api=1&destination=40.761809,-74.022937",Weehawken,NJ,07086,40.761809,-74.022937
+339,10102,905 River Rd,"https://www.google.com/maps/dir/?api=1&destination=40.824835,-73.973742",Edgewater,NJ,07020,40.824835,-73.973742
+340,10381,45 Vervalen St,"https://www.google.com/maps/dir/?api=1&destination=40.97068755,-73.95634458",Closter,NJ,07624,40.97068755,-73.95634458
+341,10587,1933 NJ-35,"https://www.google.com/maps/dir/?api=1&destination=40.154645,-74.056864",Wall,NJ,07719,40.154645,-74.056864
+342,10104,753 Cerrillos Rd,"https://www.google.com/maps/dir/?api=1&destination=35.678896,-105.950174",Santa Fe,NM,87505,35.678896,-105.950174
+343,10144,5815 Wyoming Blvd NE,"https://www.google.com/maps/dir/?api=1&destination=35.146488,-106.556026",Albuquerque,NM,87109,35.146488,-106.556026
+344,10420,2103 Carlisle Blvd NE,"https://www.google.com/maps/dir/?api=1&destination=35.102702,-106.605117",Albuquerque,NM,87110,35.102702,-106.605117
+345,10245,270 Greenwich St,"https://www.google.com/maps/dir/?api=1&destination=40.715619,-74.011563",New York,NY,10007,40.715619,-74.011563
+346,10696,66 Broadway,"https://www.google.com/maps/dir/?api=1&destination=40.70705,-74.0122",New York,NY,10005,40.70705,-74.0122
+347,10713,450 W 33rd St,"https://www.google.com/maps/dir/?api=1&destination=40.752762,-73.999959",New York,NY,10001,40.752762,-73.999959
+348,10131,250 7th Ave,"https://www.google.com/maps/dir/?api=1&destination=40.745113,-73.995347",New York,NY,10001,40.745113,-73.995347
+349,10162,4 Union Square S,"https://www.google.com/maps/dir/?api=1&destination=40.734741,-73.991243",New York,NY,10003,40.734741,-73.991243
+350,10236,95 East Houston St,"https://www.google.com/maps/dir/?api=1&destination=40.723779,-73.992409",New York,NY,10002,40.723779,-73.992409
+351,10578,1095 6th Ave,"https://www.google.com/maps/dir/?api=1&destination=40.754632,-73.984832",New York,NY,10036,40.754632,-73.984832
+352,10160,"10 Columbus Cir, Ste Sc101","https://www.google.com/maps/dir/?api=1&destination=40.767879,-73.983007",New York,NY,10019,40.767879,-73.983007
+353,10773,63 Madison Ave,"https://www.google.com/maps/dir/?api=1&destination=40.74369137,-73.98552717",New York,NY,10016,40.74369137,-73.98552717
+354,10328,808 Columbus Ave,"https://www.google.com/maps/dir/?api=1&destination=40.79417,-73.9668",New York,NY,10025,40.79417,-73.9668
+355,10408,226 E 57th St,"https://www.google.com/maps/dir/?api=1&destination=40.75958,-73.966348",New York,NY,10022,40.75958,-73.966348
+356,10518,1551 3rd Ave,"https://www.google.com/maps/dir/?api=1&destination=40.779742,-73.95295",New York,NY,10128,40.779742,-73.95295
+357,10517,100 W 125th St,"https://www.google.com/maps/dir/?api=1&destination=40.807597,-73.946138",New York,NY,10027,40.807597,-73.946138
+358,10601,3139 Sheridan Dr,"https://www.google.com/maps/dir/?api=1&destination=42.979048,-78.816984",Amherst,NY,14226,42.979048,-78.816984
+359,10662,2740 Monroe Ave,"https://www.google.com/maps/dir/?api=1&destination=43.114125,-77.550309",Rochester,NY,14618,43.114125,-77.550309
+360,10779,167 41st St,"https://www.google.com/maps/dir/?api=1&destination=40.654445,-74.011742",Brooklyn,NY,11232,40.654445,-74.011742
+361,10220,214 3rd St,"https://www.google.com/maps/dir/?api=1&destination=40.675028,-73.988853",Brooklyn,NY,11215,40.675028,-73.988853
+362,10709,292 Ashland Pl,"https://www.google.com/maps/dir/?api=1&destination=40.686609,-73.97841",Brooklyn,NY,11217,40.686609,-73.97841
+363,10487,238 Bedford Ave,"https://www.google.com/maps/dir/?api=1&destination=40.716168,-73.959802",Brooklyn,NY,11249,40.716168,-73.959802
+364,10492,1425 Central Ave,"https://www.google.com/maps/dir/?api=1&destination=42.7089555,-73.81888489",Albany,NY,12205,42.7089555,-73.81888489
+365,10343,1 Ridge Hill Blvd,"https://www.google.com/maps/dir/?api=1&destination=40.96171562,-73.85649692",Yonkers,NY,10710,40.96171562,-73.85649692
+366,10600,20 The Crossing,"https://www.google.com/maps/dir/?api=1&destination=41.177948,-73.75497",Chappaqua,NY,10514,41.177948,-73.75497
+367,10163,110 Bloomingdale Rd,"https://www.google.com/maps/dir/?api=1&destination=41.028294,-73.758904",White Plains,NY,10605,41.028294,-73.758904
+368,10483,575 Boston Post Road,"https://www.google.com/maps/dir/?api=1&destination=40.99254119,-73.67545371",Port Chester,NY,10573,40.99254119,-73.67545371
+369,10063,2101 Northern Blvd,"https://www.google.com/maps/dir/?api=1&destination=40.797214,-73.670765",Manhasset,NY,11030,40.797214,-73.670765
+370,10706,867 East Gate Blvd,"https://www.google.com/maps/dir/?api=1&destination=40.7428,-73.60778",Garden City,NY,11530,40.7428,-73.60778
+371,10161,429 North Broadway,"https://www.google.com/maps/dir/?api=1&destination=40.788943,-73.534703",Jericho,NY,11753,40.788943,-73.534703
+372,10749,5214 Sunrise Hwy,"https://www.google.com/maps/dir/?api=1&destination=40.675976,-73.443629",Massapequa Park,NY,11762,40.675976,-73.443629
+373,10683,120 Veterans Memorial Hwy #34,"https://www.google.com/maps/dir/?api=1&destination=40.838117,-73.284123",Commack,NY,11725,40.838117,-73.284123
+374,10240,120 New Moriches Rd,"https://www.google.com/maps/dir/?api=1&destination=40.869705,-73.12585",Lake Grove,NY,11755,40.869705,-73.12585
+375,10351,70 Merrimon Ave,"https://www.google.com/maps/dir/?api=1&destination=35.601892,-82.554715",Asheville,NC,28801,35.601892,-82.554715
+376,10520,"4 S Tunnel Rd, Ste 100","https://www.google.com/maps/dir/?api=1&destination=35.58238676,-82.52312381",Asheville,NC,28805,35.58238676,-82.52312381
+377,10783,1856 Hendersonville Rd,"https://www.google.com/maps/dir/?api=1&destination=35.501038,-82.521395",Asheville,NC,28803,35.501038,-82.521395
+378,10543,9129 Sam Furr Rd,"https://www.google.com/maps/dir/?api=1&destination=35.444104,-80.871661",Huntersville,NC,28078,35.444104,-80.871661
+379,10644,400 East Brooklyn Village Ave,"https://www.google.com/maps/dir/?api=1&destination=35.2212,-80.8465",Charlotte,NC,28202,35.2212,-80.8465
+380,10443,6610 Fairview Rd,"https://www.google.com/maps/dir/?api=1&destination=35.147279,-80.830176",Charlotte,NC,28210,35.147279,-80.830176
+381,10110,41 Miller St,"https://www.google.com/maps/dir/?api=1&destination=36.09418,-80.273814",Winston-Salem,NC,27104,36.09418,-80.273814
+382,10592,7221 Waverly Walk Ave,"https://www.google.com/maps/dir/?api=1&destination=35.05322873,-80.76731725",Charlotte,NC,28277,35.05322873,-80.76731725
+383,10426,3202 W Friendly Ave,"https://www.google.com/maps/dir/?api=1&destination=36.085624,-79.834028",Greensboro,NC,27408,36.085624,-79.834028
+384,10008,81 S Elliot Rd,"https://www.google.com/maps/dir/?api=1&destination=35.934529,-79.027569",Chapel Hill,NC,27514,35.934529,-79.027569
+385,10041,621 Broad St,"https://www.google.com/maps/dir/?api=1&destination=36.007046,-78.920644",Durham,NC,27705,36.007046,-78.920644
+386,10611,5055 Arco St,"https://www.google.com/maps/dir/?api=1&destination=35.833593,-78.882466",Cary,NC,27519,35.833593,-78.882466
+387,10132,102B New Waverly Pl,"https://www.google.com/maps/dir/?api=1&destination=35.737361,-78.777234",Cary,NC,27518,35.737361,-78.777234
+388,10338,8710 Six Forks Rd,"https://www.google.com/maps/dir/?api=1&destination=35.89927263,-78.65054925",Raleigh,NC,27615,35.89927263,-78.65054925
+389,10016,3540 Wade Ave,"https://www.google.com/maps/dir/?api=1&destination=35.802456,-78.686355",Raleigh,NC,27607,35.802456,-78.686355
+390,10453,3804 Oleander Dr,"https://www.google.com/maps/dir/?api=1&destination=34.213686,-77.900814",Wilmington,NC,28403,34.213686,-77.900814
+391,10287,2693 Edmondson Rd,"https://www.google.com/maps/dir/?api=1&destination=39.14547,-84.447324",Cincinnati,OH,45209,39.14547,-84.447324
+392,10666,"5901 E Galbraith Rd, Ste 105","https://www.google.com/maps/dir/?api=1&destination=39.205289,-84.373899",Cincinnati,OH,45236,39.205289,-84.373899
+393,10340,5805 Deerfield Blvd,"https://www.google.com/maps/dir/?api=1&destination=39.30760702,-84.31658604",Mason,OH,45040,39.30760702,-84.31658604
+394,10558,1050 Miamisburg Centerville Rd,"https://www.google.com/maps/dir/?api=1&destination=39.626787,-84.190303",Dayton,OH,45458,39.626787,-84.190303
+395,10214,3670 W Dublin-Granville Rd,"https://www.google.com/maps/dir/?api=1&destination=40.098628,-83.086634",Columbus,OH,43235,40.098628,-83.086634
+396,10385,1555 W Lane Ave,"https://www.google.com/maps/dir/?api=1&destination=40.00659508,-83.05262347",Upper Arlington,OH,43221,40.00659508,-83.05262347
+397,10555,4100 Easton Gateway Dr,"https://www.google.com/maps/dir/?api=1&destination=40.056875,-82.909634",Columbus,OH,43219,40.056875,-82.909634
+398,10484,19607 Detroit Rd,"https://www.google.com/maps/dir/?api=1&destination=41.478792,-81.840031",Rocky River,OH,44116,41.478792,-81.840031
+399,10673,1745 W Market St,"https://www.google.com/maps/dir/?api=1&destination=41.110953,-81.571348",Akron,OH,44313,41.110953,-81.571348
+400,10199,13998 Cedar Rd,"https://www.google.com/maps/dir/?api=1&destination=41.5008555,-81.53673331",University Heights,OH,44118,41.5008555,-81.53673331
+401,10664,50 Wall St,"https://www.google.com/maps/dir/?api=1&destination=41.45009,-81.484869",Orange,OH,44122,41.45009,-81.484869
+402,10376,6001 North Western Ave,"https://www.google.com/maps/dir/?api=1&destination=35.534037,-97.530387",Oklahoma City,OK,73118,35.534037,-97.530387
+403,10304,1401 E 41st St,"https://www.google.com/maps/dir/?api=1&destination=36.104769,-95.97313",Tulsa,OK,74105,36.104769,-95.97313
+404,10472,9136 S Yale Ave,"https://www.google.com/maps/dir/?api=1&destination=36.03065852,-95.92337312",Tulsa,OK,74137,36.03065852,-95.92337312
+405,10407,2610 NE Hwy 20,"https://www.google.com/maps/dir/?api=1&destination=44.056252,-121.265962",Bend,OR,97701,44.056252,-121.265962
+406,10243,4301 NE Sandy Blvd,"https://www.google.com/maps/dir/?api=1&destination=45.536961,-122.61867",Portland,OR,97213,45.536961,-122.61867
+407,10402,2825 East Burnside St,"https://www.google.com/maps/dir/?api=1&destination=45.523118,-122.63672",Portland,OR,97214,45.523118,-122.63672
+408,10654,11 S State St,"https://www.google.com/maps/dir/?api=1&destination=45.41577625,-122.6622406",Lake Oswego,OR,97034,45.41577625,-122.6622406
+409,10375,3535 NE 15th Ave,"https://www.google.com/maps/dir/?api=1&destination=45.54906,-122.651114",Portland,OR,97212,45.54906,-122.651114
+410,10148,1210 NW Couch St,"https://www.google.com/maps/dir/?api=1&destination=45.523508,-122.683434",Portland,OR,97209,45.523508,-122.683434
+411,10266,7380 SW Bridgeport Rd,"https://www.google.com/maps/dir/?api=1&destination=45.394432,-122.751583",Tigard,OR,97224,45.394432,-122.751583
+412,10537,12220 SW Scholls Ferry Rd,"https://www.google.com/maps/dir/?api=1&destination=45.442495,-122.801781",Tigard,OR,97223,45.442495,-122.801781
+413,10294,353 E Broadway,"https://www.google.com/maps/dir/?api=1&destination=44.050111,-123.087863",Eugene,OR,97401,44.050111,-123.087863
+414,10327,9940 NE Cornell Rd,"https://www.google.com/maps/dir/?api=1&destination=45.53377558,-122.8771025",Hillsboro,OR,97124,45.53377558,-122.8771025
+415,10377,10576 Perry Hwy,"https://www.google.com/maps/dir/?api=1&destination=40.61225173,-80.05287531",Wexford,PA,15090,40.61225173,-80.05287531
+416,10242,111 Siena Dr,"https://www.google.com/maps/dir/?api=1&destination=40.34603161,-80.05813049",Upper St. Clair,PA,15241,40.34603161,-80.05813049
+417,10694,5700 Penn Ave,"https://www.google.com/maps/dir/?api=1&destination=40.4622,-79.9286",Pittsburgh,PA,15206,40.4622,-79.9286
+418,10624,1563 Fruitville Pike,"https://www.google.com/maps/dir/?api=1&destination=40.065349,-76.313169",Lancaster,PA,17601,40.065349,-76.313169
+419,10566,"750 N Krocks Rd, Ste 301","https://www.google.com/maps/dir/?api=1&destination=40.56440567,-75.5668647",Allentown,PA,18106,40.56440567,-75.5668647
+420,10660,175 N Pottstown Pike,"https://www.google.com/maps/dir/?api=1&destination=40.0303,-75.627998",Exton,PA,19341,40.0303,-75.627998
+421,10353,475 Wilmington West Chester Pike,"https://www.google.com/maps/dir/?api=1&destination=39.86349887,-75.54307077",Glen Mills,PA,19342,39.86349887,-75.54307077
+422,10053,821 Lancaster Ave,"https://www.google.com/maps/dir/?api=1&destination=40.048876,-75.411115",Wayne,PA,19087,40.048876,-75.411115
+423,10625,3737 West Chester Pike,"https://www.google.com/maps/dir/?api=1&destination=39.987825,-75.403903",Newtown Square,PA,19073,39.987825,-75.403903
+424,10249,500 W Germantown Pike,"https://www.google.com/maps/dir/?api=1&destination=40.11418192,-75.28110864",Plymouth Meeting,PA,19462,40.11418192,-75.28110864
+425,10496,15 E Wynnewood Rd,"https://www.google.com/maps/dir/?api=1&destination=40.0019522,-75.2755867",Wynnewood,PA,19096,40.0019522,-75.2755867
+426,10599,1111 N Bethlehem Pike,"https://www.google.com/maps/dir/?api=1&destination=40.188211,-75.227542",Spring House,PA,19477,40.188211,-75.227542
+427,10514,2101 Pennsylvania Ave,"https://www.google.com/maps/dir/?api=1&destination=39.963185,-75.174306",Philadelphia,PA,19130,39.963185,-75.174306
+428,10112,929 South St,"https://www.google.com/maps/dir/?api=1&destination=39.942897,-75.157883",Philadelphia,PA,19147,39.942897,-75.157883
+429,10100,1575 The Fairway,"https://www.google.com/maps/dir/?api=1&destination=40.107871,-75.116061",Jenkintown,PA,19046,40.107871,-75.116061
+430,10254,151 Sockanosset Cross Rd,"https://www.google.com/maps/dir/?api=1&destination=41.755906,-71.456046",Cranston,RI,02920,41.755906,-71.456046
+431,10111,601 N Main St,"https://www.google.com/maps/dir/?api=1&destination=41.83714,-71.408307",Providence,RI,02904,41.83714,-71.408307
+432,10014,261 Waterman St,"https://www.google.com/maps/dir/?api=1&destination=41.827787,-71.386189",Providence,RI,02906,41.827787,-71.386189
+433,10224,1140 Woodruff Rd,"https://www.google.com/maps/dir/?api=1&destination=34.825521,-82.300837",Greenville,SC,29607,34.825521,-82.300837
+434,10464,"702 Cross Hill Rd, Ste 300","https://www.google.com/maps/dir/?api=1&destination=33.9931,-80.975304",Columbia,SC,29205,33.9931,-80.975304
+435,10561,50 Shelter Cove Ln,"https://www.google.com/maps/dir/?api=1&destination=32.187478,-80.716653",Hilton Head Island,SC,29928,32.187478,-80.716653
+436,10698,1125 Savannah Hwy,"https://www.google.com/maps/dir/?api=1&destination=32.782649,-79.996381",Charleston,SC,29407,32.782649,-79.996381
+437,10201,923 Houston Northcutt Blvd,"https://www.google.com/maps/dir/?api=1&destination=32.802162,-79.889113",Mount Pleasant,SC,29464,32.802162,-79.889113
+438,10480,5014 Poplar Ave,"https://www.google.com/maps/dir/?api=1&destination=35.113149,-89.894177",Memphis,TN,38117,35.113149,-89.894177
+439,10562,7825 US Highway 72,"https://www.google.com/maps/dir/?api=1&destination=35.08906383,-89.80212448",Germantown,TN,38138,35.08906383,-89.80212448
+440,10685,1202 Broadway,"https://www.google.com/maps/dir/?api=1&destination=36.1563,-86.7886",Nashville,TN,37203,36.1563,-86.7886
+441,10241,4021 Hillsboro Pike,"https://www.google.com/maps/dir/?api=1&destination=36.103133,-86.8185",Nashville,TN,37215,36.103133,-86.8185
+442,10321,1566 W McEwen Dr,"https://www.google.com/maps/dir/?api=1&destination=35.934445,-86.824652",Franklin,TN,37067,35.934445,-86.824652
+443,10409,301 Manufacturers Rd,"https://www.google.com/maps/dir/?api=1&destination=35.06336956,-85.31437339",Chattanooga,TN,37405,35.06336956,-85.31437339
+444,10782,"1814 Gunbarrel Rd, Ste 100","https://www.google.com/maps/dir/?api=1&destination=35.023851,-85.156119",Chattanooga,TN,37421,35.023851,-85.156119
+445,10461,6730 Papermill Dr NW,"https://www.google.com/maps/dir/?api=1&destination=35.933145,-84.01555",Knoxville,TN,37919,35.933145,-84.01555
+446,10498,4041 Waller Creek,"https://www.google.com/maps/dir/?api=1&destination=33.072621,-97.084357",Highland Village,TX,75077,33.072621,-97.084357
+447,10358,105 Stacy Rd,"https://www.google.com/maps/dir/?api=1&destination=33.13100341,-96.65660264",Fairview,TX,75069,33.13100341,-96.65660264
+448,10030,2201 Preston Rd,"https://www.google.com/maps/dir/?api=1&destination=33.029281,-96.796754",Plano,TX,75093,33.029281,-96.796754
+449,10613,1411 E Renner Rd,"https://www.google.com/maps/dir/?api=1&destination=32.99879421,-96.69873256",Richardson,TX,75082,32.99879421,-96.69873256
+450,10473,"5100 Belt Line Rd, Ste 1012","https://www.google.com/maps/dir/?api=1&destination=32.953182,-96.821423",Addison,TX,75254,32.953182,-96.821423
+451,10523,4801 Colleyvile Blvd,"https://www.google.com/maps/dir/?api=1&destination=32.879212,-97.155465",Colleyville,TX,76034,32.879212,-97.155465
+452,10627,6741 N MacArthur Blvd,"https://www.google.com/maps/dir/?api=1&destination=32.901281,-96.960361",Irving,TX,75039,32.901281,-96.960361
+453,10227,"11700 Preston Rd, Ste 714","https://www.google.com/maps/dir/?api=1&destination=32.907312,-96.803062",Dallas,TX,75230,32.907312,-96.803062
+454,10239,"8190 Park Ln, Ste 351","https://www.google.com/maps/dir/?api=1&destination=32.86799526,-96.76796226",Dallas,TX,75231,32.86799526,-96.76796226
+455,10140,4100 Lomo Alto Dr,"https://www.google.com/maps/dir/?api=1&destination=32.82044,-96.81471",Highland Park,TX,75219,32.82044,-96.81471
+456,10098,801 E Lamar,"https://www.google.com/maps/dir/?api=1&destination=32.766919,-97.098904",Arlington,TX,76011,32.766919,-97.098904
+457,10283,2118 Abrams Rd,"https://www.google.com/maps/dir/?api=1&destination=32.815669,-96.752321",Dallas,TX,75214,32.815669,-96.752321
+458,10505,2510 McKinney Ave,"https://www.google.com/maps/dir/?api=1&destination=32.79542,-96.801691",Dallas,TX,75201,32.79542,-96.801691
+459,10332,3720 Vision Dr,"https://www.google.com/maps/dir/?api=1&destination=32.700021,-97.41296",Fort Worth,TX,76109,32.700021,-97.41296
+460,10665,"5001 183 Toll Rd, Bldg A Ste 100","https://www.google.com/maps/dir/?api=1&destination=30.53573895,-97.81767839",Cedar Park,TX,78613,30.53573895,-97.81767839
+461,10316,11920 Domain Dr,"https://www.google.com/maps/dir/?api=1&destination=30.406373,-97.720025",Austin,TX,78758,30.406373,-97.720025
+462,10036,"9607 Research Blvd, Ste 300","https://www.google.com/maps/dir/?api=1&destination=30.389293,-97.741483",Austin,TX,78759,30.389293,-97.741483
+463,10393,12601 Hill Country Blvd,"https://www.google.com/maps/dir/?api=1&destination=30.307525,-97.937572",Bee Cave,TX,78738,30.307525,-97.937572
+464,10145,525 N Lamar Blvd,"https://www.google.com/maps/dir/?api=1&destination=30.270598,-97.753388",Austin,TX,78703,30.270598,-97.753388
+465,10721,"901 E 5th St, Ste 100","https://www.google.com/maps/dir/?api=1&destination=30.26396,-97.73363",Austin,TX,78702,30.26396,-97.73363
+466,10384,"4301 W William Cannon, Bldg B Ste 800","https://www.google.com/maps/dir/?api=1&destination=30.220346,-97.841947",Austin,TX,78749,30.220346,-97.841947
+467,10574,"1925 Hughes Landing Blvd, Ste 100","https://www.google.com/maps/dir/?api=1&destination=30.169391,-95.470834",The Woodlands,TX,77380,30.169391,-95.470834
+468,10497,10133 Louetta Rd,"https://www.google.com/maps/dir/?api=1&destination=29.998395,-95.562013",Houston,TX,77070,29.998395,-95.562013
+469,10444,18403 Blanco Rd,"https://www.google.com/maps/dir/?api=1&destination=29.613119,-98.510941",San Antonio,TX,78258,29.613119,-98.510941
+470,10622,100 Pitt St,"https://www.google.com/maps/dir/?api=1&destination=31.834063,-106.548039",El Paso,TX,79912,31.834063,-106.548039
+471,10075,"255 E Basse Rd, Ste 130","https://www.google.com/maps/dir/?api=1&destination=29.493296,-98.480574",San Antonio,TX,78209,29.493296,-98.480574
+472,10652,101 N Loop W,"https://www.google.com/maps/dir/?api=1&destination=29.8139,-95.3981",Houston,TX,77018,29.8139,-95.3981
+473,10474,6601 S Fry Rd,"https://www.google.com/maps/dir/?api=1&destination=29.712195,-95.771282",Katy,TX,77494,29.712195,-95.771282
+474,10552,1407 S Voss Rd,"https://www.google.com/maps/dir/?api=1&destination=29.75252,-95.499911",Houston,TX,77057,29.75252,-95.499911
+475,10612,11041 Westheimer Rd,"https://www.google.com/maps/dir/?api=1&destination=29.73506756,-95.57052056",Houston,TX,77042,29.73506756,-95.57052056
+476,10251,"1700 Post Oak Blvd, Ste 100","https://www.google.com/maps/dir/?api=1&destination=29.749298,-95.46192",Houston,TX,77056,29.749298,-95.46192
+477,10346,701 Waugh Dr,"https://www.google.com/maps/dir/?api=1&destination=29.758033,-95.397559",Houston,TX,77019,29.758033,-95.397559
+478,10115,2955 Kirby Dr,"https://www.google.com/maps/dir/?api=1&destination=29.739315,-95.418147",Houston,TX,77098,29.739315,-95.418147
+479,10134,4004 Bellaire Blvd,"https://www.google.com/maps/dir/?api=1&destination=29.70693,-95.441443",Houston,TX,77025,29.70693,-95.441443
+480,10258,15900 Southwest Fwy,"https://www.google.com/maps/dir/?api=1&destination=29.600051,-95.623382",Sugar Land,TX,77478,29.600051,-95.623382
+481,10646,6598 N Landmark Dr,"https://www.google.com/maps/dir/?api=1&destination=40.727189,-111.546933",Park City,UT,84098,40.727189,-111.546933
+482,10430,6930 S Highland Dr,"https://www.google.com/maps/dir/?api=1&destination=40.625077,-111.835906",Cottonwood Heights,UT,84121,40.625077,-111.835906
+483,10415,1131 E Wilmington Ave,"https://www.google.com/maps/dir/?api=1&destination=40.723719,-111.85894",Salt Lake City,UT,84106,40.723719,-111.85894
+484,10280,544 S 700 E,"https://www.google.com/maps/dir/?api=1&destination=40.757926,-111.871839",Salt Lake City,UT,84102,40.757926,-111.871839
+485,10466,1800 Laskin Rd,"https://www.google.com/maps/dir/?api=1&destination=36.85069,-76.027984",Virginia Beach,VA,23454,36.85069,-76.027984
+486,10205,1797 Hydraulic Rd,"https://www.google.com/maps/dir/?api=1&destination=38.05968725,-78.48925924",Charlottesville,VA,22901,38.05968725,-78.48925924
+487,10534,"19800 Belmont Chase Dr, Unit 160","https://www.google.com/maps/dir/?api=1&destination=39.068415,-77.484275",Ashburn,VA,20147,39.068415,-77.484275
+488,10223,4501 Market Commons Dr,"https://www.google.com/maps/dir/?api=1&destination=38.85774522,-77.37750289",Fairfax,VA,22033,38.85774522,-77.37750289
+489,10061,11660 Plaza America Dr,"https://www.google.com/maps/dir/?api=1&destination=38.95171143,-77.34918526",Reston,VA,20190,38.95171143,-77.34918526
+490,10065,143 Maple Ave E,"https://www.google.com/maps/dir/?api=1&destination=38.902421,-77.262963",Vienna,VA,22180,38.902421,-77.262963
+491,10257,11173 W Broad St,"https://www.google.com/maps/dir/?api=1&destination=37.64789453,-77.59958349",Glen Allen,VA,23060,37.64789453,-77.59958349
+492,10647,1635 Boro Place,"https://www.google.com/maps/dir/?api=1&destination=38.9251,-77.2331",McLean,VA,22102,38.9251,-77.2331
+493,10049,7511 Leesburg Pike,"https://www.google.com/maps/dir/?api=1&destination=38.902898,-77.205047",Falls Church,VA,22043,38.902898,-77.205047
+494,10795,6426 Springfield Plaza,"https://www.google.com/maps/dir/?api=1&destination=38.77998354,-77.19008231",Springfield,VA,22150,38.77998354,-77.19008231
+495,10598,2024 W Broad St,"https://www.google.com/maps/dir/?api=1&destination=37.557842,-77.461533",Richmond,VA,23220,37.557842,-77.461533
+496,10042,2700 Wilson Blvd,"https://www.google.com/maps/dir/?api=1&destination=38.889049,-77.091065",Arlington,VA,22201,38.889049,-77.091065
+497,10531,"520 12th St South, Ste 100","https://www.google.com/maps/dir/?api=1&destination=38.862695,-77.054583",Arlington,VA,22202,38.862695,-77.054583
+498,10185,1700 Duke St,"https://www.google.com/maps/dir/?api=1&destination=38.804089,-77.059969",Alexandria,VA,22314,38.804089,-77.059969
+499,10525,"12090 Jefferson Ave, Ste 100","https://www.google.com/maps/dir/?api=1&destination=37.10389695,-76.48956407",Newport News,VA,23606,37.10389695,-76.48956407
+500,10260,17991 NE Redmond Way,"https://www.google.com/maps/dir/?api=1&destination=47.666262,-122.101703",Redmond,WA,98052,47.666262,-122.101703
+501,10153,888 116th Ave NE,"https://www.google.com/maps/dir/?api=1&destination=47.618361,-122.184588",Bellevue,WA,98004,47.618361,-122.184588
+502,10655,12501 120th Ave NE,"https://www.google.com/maps/dir/?api=1&destination=47.711523,-122.179711",Kirkland,WA,98034,47.711523,-122.179711
+503,10630,1001 Broadway,"https://www.google.com/maps/dir/?api=1&destination=47.6113,-122.321",Seattle,WA,98122,47.6113,-122.321
+504,10216,2210 Westlake Ave,"https://www.google.com/maps/dir/?api=1&destination=47.618249,-122.337898",Seattle,WA,98121,47.618249,-122.337898
+505,10103,1026 NE 64th St,"https://www.google.com/maps/dir/?api=1&destination=47.675254,-122.316555",Seattle,WA,98115,47.675254,-122.316555
+506,10524,"4755 Fauntleroy Way SW, Ste 190","https://www.google.com/maps/dir/?api=1&destination=47.560745,-122.381926",Seattle,WA,98116,47.560745,-122.381926
+507,10436,"2800 SW 196th St, Ste 100","https://www.google.com/maps/dir/?api=1&destination=47.819814,-122.272471",Lynnwood,WA,98036,47.819814,-122.272471
+508,10588,3515 Bridgeport Way W,"https://www.google.com/maps/dir/?api=1&destination=47.227235,-122.536071",University Place,WA,98466,47.227235,-122.536071
+509,10275,2001 15th Ave W,"https://www.google.com/maps/dir/?api=1&destination=47.63696928,-122.3768223",Seattle,WA,98119,47.63696928,-122.3768223
+510,10637,1030 Lakeway Dr,"https://www.google.com/maps/dir/?api=1&destination=48.74363266,-122.461261",Bellingham,WA,98229,48.74363266,-122.461261
+511,10776,4710 Madison Yards Way,"https://www.google.com/maps/dir/?api=1&destination=43.07461,-89.45844",Madison,WI,53705,43.07461,-89.45844
+512,10586,11100 W Burleigh St,"https://www.google.com/maps/dir/?api=1&destination=43.07544237,-88.05151012",Wauwatosa,WI,53222,43.07544237,-88.05151012
+513,10197,2305 N Prospect Ave,"https://www.google.com/maps/dir/?api=1&destination=43.06032381,-87.88376223",Milwaukee,WI,53211,43.06032381,-87.88376223
+514,10792,1155 S Highway 89,"https://www.google.com/maps/dir/?api=1&destination=43.4636658,-110.7940903",Jackson,WY,83001,43.4636658,-110.7940903
